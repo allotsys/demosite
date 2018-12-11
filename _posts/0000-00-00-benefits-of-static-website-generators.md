@@ -3,7 +3,7 @@
 title: Benefits of static site generator
 date: 2018-12-09 16:26
 
-image: http://placehold.it/900x300
+image: https://placehold.it/900x300
 lead: "We pay a huge price for the underlying complexity of dynamic code running on a server for every request - a price we could avoid paying entirely when this kind of complexity not needed."
 
 subtitle: create an ultra fast, secure blog that is easy to mantain and easy to scale
