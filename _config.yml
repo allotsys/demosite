@@ -31,7 +31,7 @@ plugins:
   
 # Filtering Content
 
-permalink: pretty
+permalink: none
 comments: true 
 defaults:
   -
